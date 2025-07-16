@@ -8,9 +8,9 @@
  Currently learning about model building and time series forecasting  
  Fun fact: Dancing is my soul language 💫
 
- Project I'm proud of:
+ Projects I'm proud of:
        Electricity Data Analysis → Energy usage patterns across apartments
-
+       Employee Work Hours Analysis and Visualization
 
   Skills
      Python
